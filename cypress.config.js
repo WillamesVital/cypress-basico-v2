@@ -7,6 +7,3 @@ module.exports = defineConfig({
     },
   },
 });
-
-const fs = require('fs');
-const videoFolder = 'cypress/videos';
